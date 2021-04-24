@@ -5,11 +5,11 @@
     <ul>
         <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/1%20-%20Java%20Temelleri%201/DERS/Intro/src">DERS</a></li>
             <ul>
-                <li><a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Main.java">Değişkenler</a> </li>
-                <li><a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Type.java">Referans Tipleri</a> </li>
-                <li><a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Conditions.java">Şart Blokları</a> </li>
-                <li><a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Lists.java">Döngüler</a></li>
-                <li><a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Lists.java">Diziler</a></li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/1%20-%20Java%20Temelleri%201/DERS/Intro/src/Main.java">Değişkenler</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/1%20-%20Java%20Temelleri%201/DERS/Intro/src/Type.java">Referans Tipleri</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/1%20-%20Java%20Temelleri%201/DERS/Intro/src/Conditions.java">Şart Blokları</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/1%20-%20Java%20Temelleri%201/DERS/Intro/src/Lists.java">Döngüler</a></li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/1%20-%20Java%20Temelleri%201/DERS/Intro/src/Lists.java">Diziler</a></li>
             </ul>
         <li>ÖDEV</li>
             <ul>
