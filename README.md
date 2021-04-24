@@ -1,10 +1,35 @@
 <h1> Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT) </h1>
 
 <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/qi4s19xSKCmtaaRUqUFI" width="500px"></img>
-1. <a href="https://github.com/icanerdogan/JavaWebTutorial/tree/master/1%20-%20Java%20Temelleri/Intro"> JAVA Temelleri 1 </a>
-    - <a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Main.java">Değişkenler</a> 
-    - <a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Type.java">Referans Tipleri</a> 
-    - <a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Conditions.java">Şart Blokları</a> 
-    - <a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Lists.java">Döngüler</a> 
-    - <a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Lists.java">Diziler</a>  
+1. <h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/1%20-%20Java%20Temelleri%201"> JAVA Temelleri 1 </a></h2>
+    <ul>
+        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/1%20-%20Java%20Temelleri%201/DERS/Intro/src">DERS</a></li>
+            <ul>
+                <li><a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Main.java">Değişkenler</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Type.java">Referans Tipleri</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Conditions.java">Şart Blokları</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Lists.java">Döngüler</a></li>
+                <li><a href="https://github.com/icanerdogan/JavaWebTutorial/blob/master/1%20-%20Java%20Temelleri/Intro/src/Lists.java">Diziler</a></li>
+            </ul>
+        <li>ÖDEV</li>
+            <ul>
+            </ul>   
+    </ul>
+    
+2. <h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/2%20-%20Java%20Temelleri%202"> JAVA Temelleri 2 </a></h2>
+    <ul>
+        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/2%20-%20Java%20Temelleri%202/DERS">DERS</a></li>
+            <ul>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/2%20-%20Java%20Temelleri%202/DERS/oopIntro/src/oopIntro/Main.java">Main</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/2%20-%20Java%20Temelleri%202/DERS/oopIntro/src/oopIntro/Product.java">Product</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/2%20-%20Java%20Temelleri%202/DERS/oopIntro/src/oopIntro/ProductManager.java">Product Manager</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/2%20-%20Java%20Temelleri%202/DERS/oopIntro/src/oopIntro/Category.java">Category</a></li>
+            </ul>
+        <li>ÖDEV</li>
+            <ul>
+            </ul>   
+    </ul>
+    
+    
+    
 
