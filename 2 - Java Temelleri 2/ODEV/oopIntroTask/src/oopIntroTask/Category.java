@@ -1,8 +1,8 @@
 package oopIntroTask;
 
-// ÖZELLÝK SINIFI 
+// Ã–ZELLÄ°K SINIFI 
 public class Category {
-	// Kurslarýn kategorilerinin ID ve isimleri tutuluyor.
+	// KurslarÄ±n kategorilerinin ID ve isimleri tutuluyor.
 	
 	public Category(int categoryID, String categoryName) {
 		super();
