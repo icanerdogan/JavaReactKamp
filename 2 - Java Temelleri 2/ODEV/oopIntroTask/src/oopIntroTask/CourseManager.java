@@ -1,21 +1,21 @@
 package oopIntroTask;
 
-// İŞ SINIFI
+// ÃÃ SINIFI
 public class CourseManager {
-	// Kurslar üzerinde yapabileceğimiz fonskiyonlar yani metodları tutuluyor
+	// Kurslar Ã¼zerinde yapabileceÄŸimiz fonskiyonlar yani metodlarÄ± tutuluyor
 	
 	public void enrollCourse(Course course) {
-		System.out.println(course.courseName + "'a Başarıyla Kaydoldunuz!!");
+		System.out.println(course.courseName + "'a BaÅŸarÄ±yla Kaydoldunuz!!");
 	}
 	public void withdrawCourse(Course course){
-		System.out.println(course.courseName + "'tan Ayrıldınız!!");
+		System.out.println(course.courseName + "'tan AyrÄ±ldÄ±nÄ±z!!");
 	}
 	
 	public void rollCall(Course course){
-		System.out.println("Yoklamanız Alınmıştır :)");
+		System.out.println("YoklamanÃ½z AlÄ±nmÄ±ÅŸtÄ±r :)");
 	}
 	
 	public void sendComment(Course course, String comment){
-		System.out.println("Yorumunuz Başarıyla Gönderildi: "+comment);
+		System.out.println("Yorumunuz BaÅŸarÄ±yla GÃ¶nderildi: "+comment);
 	}
 }
