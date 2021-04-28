@@ -5,36 +5,36 @@ public class Main {
 	public static void main(String[] args) {
 		
 		// COURSES
-		Course course1 = new Course(1, "Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)", 
-				"2 ay sürecek ücretsiz ve profesyonel bir programla, sıfırdan yazılım geliştirme öğreniyoruz.",
-				"Ücretsiz","C#");
+		Course course1 = new Course(1, "YazÄ±lÄ±m GeliÅŸtirici YetiÅŸtirme KampÄ± (C# + ANGULAR)", 
+				"2 ay sÃ¼recek Ã¼cretsiz ve profesyonel bir programla, sÄ±fÄ±rdan yazÄ±lÄ±m geliÅŸtirme Ã¶ÄŸreniyoruz.",
+				"Ãœcretsiz","C#");
 		
-		Course course2 = new Course(2, "Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT)", 
-				"2 ay sürecek ücretsiz ve profesyonel bir programla, sıfırdan yazılım geliştirme öğreniyoruz.",
-				"Ücretsiz","Java");
+		Course course2 = new Course(2, "YazÄ±lÄ±m GeliÅŸtirici YetiÅŸtirme KampÄ± (JAVA + REACT)", 
+				"2 ay sÃ¼recek Ã¼cretsiz ve profesyonel bir programla, sÄ±fÄ±rdan yazÄ±lÄ±m geliÅŸtirme Ã¶ÄŸreniyoruz.",
+				"Ãœcretsiz","Java");
 		
-		Course course3 = new Course(3, "Programlamaya Giriş İçin Temel Kurs", 
-				"PYTHON, JAVA, C# gibi tüm programlama dilleri için temel programlama mantığını anlaşılır örneklerle öğrenin.",
-				"Ücretsiz","Python, Java, C#");
+		Course course3 = new Course(3, "Programlamaya GiriÃ¾ Ä°Ã§in Temel Kurs", 
+				"PYTHON, JAVA, C# gibi tÃ¼m programlama dilleri iÃ§in temel programlama mantÄ±ÄŸÄ±nÄ± anlaÅŸÄ±lÄ±r Ã¶rneklerle Ã¶ÄŸrenin.",
+				"Ãœcretsiz","Python, Java, C#");
 		
 		// COURSE LIST
 		Course[] courses = {course1, course2, course3};
 		
 		// COURSE LOOP
 		for(int i=0; i<courses.length;i++){
-			System.out.println(i+1 + ". Kursumuzun Adı: "+courses[i].courseName);
+			System.out.println(i+1 + ". Kursumuzun AdÄ±: "+courses[i].courseName);
 		}
 		
 		// COURSE MANAGER
 		CourseManager courseManager = new CourseManager();
 		courseManager.enrollCourse(course1);
 		courseManager.withdrawCourse(course3);
-		courseManager.sendComment(course2, "İnanılmaz bir kamp oluyor. Çook teşekkürler :)");
+		courseManager.sendComment(course2, "Ä°nanÄ±lmaz bir kamp oluyor. Ã‡ook teÅŸekkÃ¼rler :)");
 		courseManager.rollCall(course2);
 		
 		
 		//CATEGORY
-		Category category1 = new Category(1, "Tümü");
+		Category category1 = new Category(1, "TÃ¼mÃ¼");
 		Category category2 = new Category(2, "Programlama");
 		
 		// CATEGORY LIST
@@ -47,16 +47,16 @@ public class Main {
 		
 		
 		// INSTRUCTOR 
-		Instructor instructor1 = new Instructor(1, "Tümü");
-		Instructor instructor2 = new Instructor(2, "Engin Demiroğ");
-		Instructor instructor3 = new Instructor(3, "İbrahim Can Erdoğan");
+		Instructor instructor1 = new Instructor(1, "TÃ¼mÃ¼");
+		Instructor instructor2 = new Instructor(2, "Engin DemiroÄŸ");
+		Instructor instructor3 = new Instructor(3, "Ä°brahim Can ErdoÄŸan");
 		
 		// INSTRUCTOR LIST
 		Instructor[] instructors = {instructor1, instructor2, instructor3};
 		
 		// INSTRUCTOR LOOP
 		for(Instructor i:instructors) {
-			System.out.println("Eğitmenlerimiz: "+i.instructorName);
+			System.out.println("EÄŸitmenlerimiz: "+i.instructorName);
 		}
 		
 	}
