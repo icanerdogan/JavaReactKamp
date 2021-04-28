@@ -25,8 +25,13 @@
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/2%20-%20Java%20Temelleri%202/DERS/oopIntro/src/oopIntro/ProductManager.java">Product Manager</a> </li>
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/2%20-%20Java%20Temelleri%202/DERS/oopIntro/src/oopIntro/Category.java">Category</a></li>
             </ul>
-        <li>ÖDEV</li>
+        <li><a href = "https://github.com/icanerdogan/JavaReactKamp/tree/master/2%20-%20Java%20Temelleri%202/ODEV"> ÖDEV </a></li>
             <ul>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/2%20-%20Java%20Temelleri%202/ODEV/oopIntroTask/src/oopIntroTask/Main.java">Main</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/2%20-%20Java%20Temelleri%202/ODEV/oopIntroTask/src/oopIntroTask/Course.java">Course</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/2%20-%20Java%20Temelleri%202/ODEV/oopIntroTask/src/oopIntroTask/CourseManager.java">Course Manager</a></li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/2%20-%20Java%20Temelleri%202/ODEV/oopIntroTask/src/oopIntroTask/Instructor.java">Instructor</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/2%20-%20Java%20Temelleri%202/ODEV/oopIntroTask/src/oopIntroTask/Category.java">Category</a></li>
             </ul>   
     </ul>
     
