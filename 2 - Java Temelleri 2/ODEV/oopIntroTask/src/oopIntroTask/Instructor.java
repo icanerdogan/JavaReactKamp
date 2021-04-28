@@ -1,8 +1,8 @@
 package oopIntroTask;
 
-// ÖZELLÝK SINIFI
+// Ã–ZELLÄ°K SINIFI
 public class Instructor {
-	// Eðitmen ID ve Ýsmi tutuluyor
+	// EÄŸitmen ID ve Ä°smi tutuluyor
 	
 	public Instructor(int instructorID, String instructorName) {
 		super();
