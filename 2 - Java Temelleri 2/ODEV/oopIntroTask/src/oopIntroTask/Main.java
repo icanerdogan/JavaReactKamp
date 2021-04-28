@@ -13,7 +13,7 @@ public class Main {
 				"2 ay sürecek ücretsiz ve profesyonel bir programla, sıfırdan yazılım geliştirme öğreniyoruz.",
 				"Ücretsiz","Java");
 		
-		Course course3 = new Course(3, "Programlamaya Giriþ İçin Temel Kurs", 
+		Course course3 = new Course(3, "Programlamaya Giriş İçin Temel Kurs", 
 				"PYTHON, JAVA, C# gibi tüm programlama dilleri için temel programlama mantığını anlaşılır örneklerle öğrenin.",
 				"Ücretsiz","Python, Java, C#");
 		
