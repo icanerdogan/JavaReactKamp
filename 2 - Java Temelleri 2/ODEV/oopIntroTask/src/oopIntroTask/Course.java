@@ -3,7 +3,7 @@ package oopIntroTask;
 public class Course {
 
 	public Course() {
-		System.out.println("Kurs Sınıfı Çağrıldı!!");
+		System.out.println("Kurs SÄ±nÄ±fÄ± Ã‡aÄŸrÄ±ldÄ±!!");
 	}
 	
 	public Course(int courseID, String courseName, String courseDescription, String coursePrice, String courseProgrammingLanguage) {
