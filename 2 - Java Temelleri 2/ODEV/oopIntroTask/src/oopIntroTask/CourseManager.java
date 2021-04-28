@@ -12,7 +12,7 @@ public class CourseManager {
 	}
 	
 	public void rollCall(Course course){
-		System.out.println("Yoklamanýz Alınmıştır :)");
+		System.out.println("Yoklamanız Alınmıştır :)");
 	}
 	
 	public void sendComment(Course course, String comment){
