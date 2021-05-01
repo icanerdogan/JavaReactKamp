@@ -35,9 +35,9 @@
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/2%20-%20Java%20Temelleri%202/ODEV/oopIntroTask/src/oopIntroTask/Category.java">Category</a></li>
             </ul>   
     </ul>
-    <h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/2%20-%20Java%20Temelleri%202">3. JAVA Nesne Yönelimli Programlamaya Giriş </a></h2>
+    <h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/3%20-%20Java%20Nesne%20Yönelimli%20Programlamaya%20Giriş">3. JAVA Nesne Yönelimli Programlamaya Giriş </a></h2>
     <ul>
-        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/2%20-%20Java%20Temelleri%202/DERS">DERS</a></li>
+        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/3%20-%20Java%20Nesne%20Yönelimli%20Programlamaya%20Giriş/DERS">DERS</a></li>
     <ul>
         <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/3%20-%20Java%20Nesne%20Yönelimli%20Programlamaya%20Giriş/DERS/inheritance/src/inheritance">1. Proje</a></li>
             <ul>
@@ -59,7 +59,7 @@
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/3%20-%20Java%20Nesne%20Yönelimli%20Programlamaya%20Giriş/DERS/inheritance2/src/inheritance2/DatabaseLogger.java">Database Logger</a></li>
             </ul>
     </ul>      
-        <li><a href = "https://github.com/icanerdogan/JavaReactKamp/tree/master/2%20-%20Java%20Temelleri%202/ODEV"> ÖDEV </a></li>
+        <li><a href = "https://github.com/icanerdogan/JavaReactKamp/tree/master/3%20-%20Java%20Nesne%20Yönelimli%20Programlamaya%20Giriş/ODEV"> ÖDEV </a></li>
             <ul>
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/3%20-%20Java%20Nesne%20Yönelimli%20Programlamaya%20Giriş/ODEV/day3Task/src/day3Task/Main.java">Main</a> </li>
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/3%20-%20Java%20Nesne%20Yönelimli%20Programlamaya%20Giriş/ODEV/day3Task/src/day3Task/User.java">User</a> </li>
