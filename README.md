@@ -37,7 +37,7 @@
             </ul>   
     </ul>
 <!-- JAVA NESNE YÖNELİMLİ PROGRAMLAMA - 3 -->
-    <h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/3%20-%20Java%20Nesne%20Yönelimli%20Programlamaya%20Giriş">3. JAVA Nesne Yönelimli Programlamaya Giriş </a></h2>
+    <h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/3%20-%20Java%20Nesne%20Yönelimli%20Programlamaya%20Giriş">3. Java Nesne Yönelimli Programlamaya Giriş </a></h2>
     <ul>
         <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/3%20-%20Java%20Nesne%20Yönelimli%20Programlamaya%20Giriş/DERS">DERS</a></li>
     <ul>
