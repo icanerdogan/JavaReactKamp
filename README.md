@@ -3,7 +3,7 @@
 <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/qi4s19xSKCmtaaRUqUFI" width="500px"></img>
 
 <!-- JAVA TEMELLERİ - 1-->
-<h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/1%20-%20Java%20Temelleri%201">1. Java Temelleri 1 </a></h2>
+<h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/1%20-%20Java%20Temelleri%201">1. Java Temelleri - 1 </a></h2>
     <ul>
         <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/1%20-%20Java%20Temelleri%201/DERS/Intro/src">DERS</a></li>
             <ul>
@@ -18,7 +18,7 @@
             </ul>   
     </ul>
 <!-- JAVA TEMELLERİ - 2-->
-<h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/2%20-%20Java%20Temelleri%202">2. Java Temelleri 2 </a></h2>
+<h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/2%20-%20Java%20Temelleri%202">2. Java Temelleri - 2 </a></h2>
     <ul>
         <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/2%20-%20Java%20Temelleri%202/DERS">DERS</a></li>
             <ul>
@@ -73,7 +73,7 @@
             </ul>   
     </ul>
 <!-- JAVA NESNE PROGRAMLAMA UZMANLAŞMA - 4-->  
-<h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/2%20-%20Java%20Temelleri%202">4. Java Nesne Yönelimli Programlamada Uzmanlaşma 1 </a></h2>
+<h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/2%20-%20Java%20Temelleri%202">4. Java Nesne Yönelimli Programlamada Uzmanlaşma - 1</a></h2>
     <ul>
         <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/DERS">DERS</a></li>
             <ul>
