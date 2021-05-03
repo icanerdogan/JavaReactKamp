@@ -87,6 +87,18 @@
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/DERS/interfaces/src/interfaces/SmsLogger.java">Sms Logger</a></li>
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/DERS/interfaces/src/interfaces/Utils.java">Utils</a></li>
             </ul>
-    </ul>
+     <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV">ÖDEV</a></li>
+     <ul>
+        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src">1. Ödev</a></li>
+            <ul>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src/Main.java">Main</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src/Abstract">Abstract</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src/Adapters">Adapters</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src/Concrete">Concrete</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src/Entities">Entities</a></li>
+            </ul>
+        <li><a href=""> 2. Ödev </a></li>       
+    </ul> 
+</ul>
     
 
