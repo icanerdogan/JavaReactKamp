@@ -97,7 +97,8 @@
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src/Concrete">Concrete</a> </li>
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src/Entities">Entities</a></li>
             </ul>
-        <li><a href=""> 2. Ödev </a></li>       
+        <li><a> 2. Ödev </a></li>  
+         <!--ul /ul ile li tagleri-->
     </ul> 
 </ul>
     
