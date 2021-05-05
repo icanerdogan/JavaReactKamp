@@ -1,0 +1,26 @@
+-Business classıdır. İş kuralları yapılacaktır.
+---Ürün eklemek istediğinde kategori sınırına bakacaksın 
+---Kişinin aldığı kredi sayısı 5 ten büyükse kredi verilmemesi gibi
+
+-Data Access
+--- Veri tabaanı işlemleri aslında, veri tabanına bağlı olan kısım
+
+Restful (API)
+--- Kullanıcın kullanabileceği sistemi geliştirmek.
+
+Bu tüm sisteme varlık sunan katmana ENTITIES denir.
+
+Core sistemi hem bu projede hem de başka projelerde kullanabileceğimiz, ortak kullanılan kodlar.
+--Mail gönderme gibi heryerde her şekilde kullanılabilen kodlardır.
+
+
+API --> BUSINESS --> DATABASE
+
+Api ile kullanıcı business'e aktarır. Business kurallardan geçer ve kullanıcı isteğine cevap verir hatalı bir işlem değilse Database gönderir.
+
+Concrete iş yapan sınıf
+
+Her packeage içinde concreate içinde abstact paketi içinde bir karşılığı olacak
+
+
+
