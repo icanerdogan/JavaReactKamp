@@ -12,10 +12,7 @@
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/1%20-%20Java%20Temelleri%201/DERS/Intro/src/Conditions.java">Şart Blokları</a> </li>
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/1%20-%20Java%20Temelleri%201/DERS/Intro/src/Lists.java">Döngüler</a></li>
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/1%20-%20Java%20Temelleri%201/DERS/Intro/src/Lists.java">Diziler</a></li>
-            </ul>
-        <li>ÖDEV</li>
-            <ul>
-            </ul>   
+            </ul> 
     </ul>
 <!-- JAVA TEMELLERİ - 2-->
 <h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/2%20-%20Java%20Temelleri%202">2. Java Temelleri - 2 </a></h2>
@@ -88,8 +85,6 @@
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/DERS/interfaces/src/interfaces/Utils.java">Utils</a></li>
             </ul>
      <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV">ÖDEV</a></li>
-     <ul>
-        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src">1. Ödev</a></li>
             <ul>
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src/Main.java">Main</a> </li>
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src/Abstract">Abstract</a> </li>
@@ -97,9 +92,27 @@
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src/Concrete">Concrete</a> </li>
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/4%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%201/ODEV/day4Task1/src/Entities">Entities</a></li>
             </ul>
-        <li><a> 2. Ödev </a></li>  
-         <!--ul /ul ile li tagleri-->
-    </ul> 
 </ul>
+
+<h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202">5 - Java Nesne Yönelimli Programlamada Uzmanlaşma - 2 </a></h2>
+    <ul>
+        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/DERS">DERS</a></li>
+            <ul>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/DERS/nLayeredDemo/src/Main.java">Main</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/DERS/nLayeredDemo/src/business">Business</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/DERS/nLayeredDemo/src/core">Core </a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/DERS/nLayeredDemo/src/dataAccess">Data Access</a></li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/DERS/nLayeredDemo/src/entities">Entities</a></li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/DERS/nLayeredDemo/src/jLogger">jLogger</a></li>
+            </ul>
+        <li><a href = "https://github.com/icanerdogan/JavaReactKamp/tree/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/ODEV"> ÖDEV </a></li>
+            <ul>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/ODEV/day5Task/src/Main.java">Main</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/ODEV/day5Task/src/business">Business</a> </li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/ODEV/day5Task/src/dataAccess">Data Access</a></li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/ODEV/day5Task/src/entities">Entities</a> </li>
+            </ul>   
+    </ul>
+
     
 
