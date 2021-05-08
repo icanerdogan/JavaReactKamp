@@ -117,7 +117,7 @@
     
 
 
-<h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler/DERS/nortwind/src/main/java/kodllamaio/nortwind">6 - Çok Katmanlı Kurumsal Mimariler </a></h2>
+<h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler">6 - Çok Katmanlı Kurumsal Mimariler </a></h2>
     <ul>
         <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler/DERS">DERS</a></li>
             <ul>
