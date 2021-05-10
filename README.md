@@ -128,4 +128,17 @@
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler/DERS/nortwind/src/main/java/kodllamaio/nortwind/entities">Entities</a></li>
                 <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler/DERS/nortwind/src/main/java/kodllamaio/nortwind/api/controllers">Api - Controllers</a></li>
             </ul> 
+        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler/ODEV">ÖDEV</a></li>
+            <ul>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler/ODEV/1%20-%20HRMS%20SQL%20Design">HRMS SQL Design</a></li>
+                <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler/ODEV/2%20-%20HRMS%20PROJECT/hrms/src/main/java/icanerdogan/hrms">HRMS PROJECT </a></li>
+                    <ul>
+                        <li><a href="https://github.com/icanerdogan/JavaReactKamp/blob/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler/ODEV/2%20-%20HRMS%20PROJECT/hrms/src/main/java/icanerdogan/hrms/HrmsApplication.java">Main</a> </li>
+                        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler/ODEV/2%20-%20HRMS%20PROJECT/hrms/src/main/java/icanerdogan/hrms/business">Business</a> </li>
+                        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/5%20-%20Java%20Nesne%20Yönelimli%20Programlamada%20Uzmanlaşma%202/DERS/nLayeredDemo/src/core">Core </a> </li>
+                        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler/ODEV/2%20-%20HRMS%20PROJECT/hrms/src/main/java/icanerdogan/hrms/dataAccess">Data Access</a></li>
+                        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler/ODEV/2%20-%20HRMS%20PROJECT/hrms/src/main/java/icanerdogan/hrms/entities">Entities</a></li>
+                        <li><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/6%20-%20Çok%20Katmanlı%20Kurumsal%20Mimariler/ODEV/2%20-%20HRMS%20PROJECT/hrms/src/main/java/icanerdogan/hrms/api/controllers">Api - Controllers</a></li>
+                    </ul> 
+            </ul>    
     </ul>
