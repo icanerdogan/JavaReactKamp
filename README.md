@@ -1,6 +1,4 @@
-<h1> Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT) </h1>
-
-<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/qi4s19xSKCmtaaRUqUFI" width="500px"></img>
+<img align="center" src="https://r.resimlink.com/a32VDFXC.jpg"></img>
 
 <!-- JAVA TEMELLERİ - 1-->
 <h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/1%20-%20Java%20Temelleri%201">1. Java Temelleri - 1 </a></h2>
