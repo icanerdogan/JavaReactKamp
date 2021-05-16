@@ -1,5 +1,9 @@
 <img align="center" src="https://r.resimlink.com/a32VDFXC.jpg"></img>
 
+![GitHub followers](https://img.shields.io/github/followers/icanerdogan?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/icanerdogan/JavaReactKamp?color=ocea&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/icanerdogan?color=yellow&style=for-the-badge)
+
 <!-- JAVA TEMELLERİ - 1-->
 <h2><a href="https://github.com/icanerdogan/JavaReactKamp/tree/master/1%20-%20Java%20Temelleri%201">1. Java Temelleri - 1 </a></h2>
     <ul>
