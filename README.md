@@ -1,4 +1,4 @@
-<img align="center" src="https://r.resimlink.com/a32VDFXC.jpg"></img>
+<img align="center" src="https://i.hizliresim.com/964vdod.png"></img>
 
 ![GitHub followers](https://img.shields.io/github/followers/icanerdogan?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/icanerdogan/JavaReactKamp?color=ocea&style=for-the-badge)
