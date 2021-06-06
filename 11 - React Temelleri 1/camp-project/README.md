@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<ol>
+  <li>CMD'de React Kurulumu <img src="https://i.hizliresim.com/ff05512.PNG"></li>
+  <li>Visual Studio Code ile React Projemizi Açma<img src="https://i.hizliresim.com/b0n890n.PNG"></li>
+  <li>İlk React Projemizi Çalıştırma<img src="https://i.hizliresim.com/jkcbz6q.PNG"></li>
+  <li>"Semantic UI React" eklentisini projemize kurma! <img src="https://i.hizliresim.com/4vpftvq.PNG"></li>
+</ol>
+
 ## Available Scripts
 
 In the project directory, you can run:
